@@ -1,0 +1,9 @@
+.canvas {
+    margin: 20px;
+    width: 600px;
+    height: 400px;
+    background-color: #353b48;
+}
+canvas {
+    background-color: #353b48;
+}

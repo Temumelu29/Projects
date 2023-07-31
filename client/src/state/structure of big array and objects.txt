@@ -1,0 +1,102 @@
+
+color()
+
+const newArray = [
+          {
+            Argument: 'outSide',
+            hasAction: true,
+            property: {
+              actions: [
+                { id: 0, hasValue: false, value: '', functionName: 'color' },
+              ],
+            },
+          },
+        ];
+color() => property => actions
+
+      const newArray = [
+            ...actionArray,
+            {
+              id: action_id,
+              hasValue: false,
+              value: '',
+              functionName: 'color',
+            },
+          ];
+
+variable =""
+
+        {
+            Argument: 'variable',
+            hasAction: false,
+            property: {
+              varName: action.payload,
+              varValue: '',
+              hasValue: false,
+            },
+          },
+        
+
+if condition
+
+  const newArray = [
+          {
+            Argument: 'if',
+            hasAction: false,
+            property: {
+              actionNameIf: 'if',
+              firstArg: '',
+              operator: '',
+              secondArg: '',
+              if_Action: [],
+              actionNameElse: '',
+              else_Action: [],
+            },
+          },
+        ];
+
+
+must var before while 
+var used in arg1 || arg2 and 
+arg3
+
+
+for 
+{
+            Argument: 'for',
+            hasAction: false,
+            property: {
+              actionNameFor: 'for',
+              firstArg: '',
+              firstOperator: '',
+              secondArg: '',
+              thirdArg: '',
+              secondOperator: '',
+              fourthArg: '',
+              fifthArg: '',
+              thirdOperator: '',
+              for_Action: [],
+              completeForBlock: '',
+            },
+          },
+
+
+    while
+
+
+        const newArray = [
+          {
+            Argument: 'while',
+            hasAction: false,
+            property: {
+              actionNameWhile: 'while',
+              firstArg: '',
+              firstOperator: '',
+              secondArg: '',
+              while_Action: [],
+              thirdArg: '',
+              secondOperator: '',
+              completeWhileBlock: '',
+            },
+          },
+        ];
